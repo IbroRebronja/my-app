@@ -10,6 +10,8 @@ This is an Angular application deployed on GitHub Pages and you can contact me a
 - **CSS3**
 - **Bootstrap** (for styling)
 
+EMAIL WORKS. SEND ME WHATEVER YOU WANT!
+
 ---
 
 Developed with ❤️ by [Ibro Rebronja](https://github.com/IbroRebronja)
